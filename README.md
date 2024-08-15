@@ -22,7 +22,7 @@ NotifyMe is a cryptocurrency and stock market tracking web application built usi
 ## Main Features
 
 ### 1. Cryptocurrency Tracking
-- Tracks and displays information about various cryptocurrencies by using CoinGeckoAPI
+- Tracks and displays information about various cryptocurrencies by using CoinGeckoAPI.
 
 ### 2. User Authentication and Registration
 - Allows users to create accounts and log in to access the application's features. Includes email verification.
@@ -31,10 +31,10 @@ NotifyMe is a cryptocurrency and stock market tracking web application built usi
 - Enables users to add and remove favorite cryptocurrencies.
 
 ### 4. Currency Conversion
-- Users can select their preffered currency (EURO, USD, RUB, GBP).
+- Users can select their preferred currency (EURO, USD, RUB, GBP).
 
 ### 5. Notification System
-- Users can create notifications based on their preffered cryptocoins, being notified when a coin changes its value or when it reaches a certain value.
+- Users can create notifications based on their preferred cryptocurrencies, being notified when a coin changes its value or when it reaches a certain value.
 
 ### 6. Search and Filtering
 - Allows users to search for specific cryptocurrencies.
@@ -43,15 +43,15 @@ NotifyMe is a cryptocurrency and stock market tracking web application built usi
 - Displays cryptocurrency price charts and other related data. Utilizes data visualization libraries like Sparkline to offer interactive and informative charts.
 
 ### 8. API Integration
-- Integrates with external APIs to ensure accurate and up-to-date cryptocurrency data and stockmarket data using CoinGecko and finnhub.
+- Integrates with external APIs to ensure accurate and up-to-date cryptocurrency data and stock market data using CoinGecko and Finnhub.
 
 ## Technologies Used
 
-- **Backend**:
+- **Back-End**:
   - [Django](https://www.djangoproject.com/): High-level Python web framework that encourages rapid development and clean, pragmatic design.
   - [SQLite](https://www.sqlite.org/): Lightweight, disk-based database used for development.
 
-- **Frontend**:
+- **Front-End**:
   - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): Markup language for structuring and presenting content.
   - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS): Style sheet language used for describing the presentation of a document.
   - [Bootstrap](https://getbootstrap.com/): Frontend framework for developing responsive and mobile-first websites.
