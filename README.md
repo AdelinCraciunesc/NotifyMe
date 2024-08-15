@@ -2,6 +2,8 @@
 
 NotifyMe is a cryptocurrency and stock market tracking web application built using the Django web framework. The application features a notification system that allows users to personalize their experience and receive alerts about changes in cryptocurrency prices, either through the web platform or via email. Additionally, NotifyMe includes a REST API that communicates with a mobile app.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,bootstrap,py)](https://skillicons.dev)
+
 ## Table of Contents
 
 - [Demo](#demo)
